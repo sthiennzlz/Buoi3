@@ -41,7 +41,7 @@ void inDuongCheoSongSong(int a[MAX][MAX], int n) {
         printf("\n");
     }
 }
-
+//Câu 4
 int timMaxTamGiacTren(int a[MAX][MAX], int n) {
     int max = a[0][1];
     for (int i = 0; i < n; i++) {
