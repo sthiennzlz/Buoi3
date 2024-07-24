@@ -4,7 +4,7 @@
 
 #define MAX_M 100
 #define MAX_N 100
-
+//Câu 1
 void taoMang(int a[MAX_M][MAX_N], int m, int n, int k) {
     for (int i = 0; i < m; i++) {
         for (int j = 0; j < n; j++) {
