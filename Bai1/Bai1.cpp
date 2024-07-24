@@ -51,7 +51,7 @@ void xuatBien(int a[MAX_M][MAX_N], int m, int n) {
     for (int j = 0; j < n; j++) printf("%d ", a[m - 1][j]);
     printf("\n");
 }
-
+//Câu 5
 void timCucDai(int a[MAX_M][MAX_N], int m, int n) {
     printf("Cac phan tu cuc dai:\n");
     for (int i = 0; i < m; i++) {
