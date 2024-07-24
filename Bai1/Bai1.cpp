@@ -31,7 +31,7 @@ void tinhTongDong(int a[MAX_M][MAX_N], int m, int n) {
         printf("Tong dong %d: %d\n", i, tong);
     }
 }
-
+//Câu 3
 void timMaxCot(int a[MAX_M][MAX_N], int m, int n) {
     for (int j = 0; j < n; j++) {
         int max = a[0][j];
