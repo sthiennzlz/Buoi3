@@ -57,7 +57,7 @@ int timMaxTamGiacTren(int a[MAX][MAX], int n) {
 int soSanh(const void* a, const void* b) {
     return (*(int*)a - *(int*)b);
 }
-
+//Câu 5
 void sapXepZigZag(int a[MAX][MAX], int n) {
     int temp[MAX * MAX];
     int index = 0;
