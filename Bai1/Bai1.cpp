@@ -142,7 +142,7 @@ void xuatDongChan(int a[MAX_M][MAX_N], int m, int n) {
         }
     }
 }
-
+//Câu 9
 void sapXepTang(int a[MAX_M][MAX_N], int m, int n) {
     for (int i = 0; i < m; i++) {
         for (int j = 0; j < n - 1; j++) {
