@@ -73,7 +73,7 @@ void timCucDai(int a[MAX_M][MAX_N], int m, int n) {
     }
     printf("\n");
 }
-
+//Câu 6
 void timHoangHau(int a[MAX_M][MAX_N], int m, int n) {
     printf("Cac phan tu hoang hau:\n");
     for (int i = 0; i < m; i++) {
