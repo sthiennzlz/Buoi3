@@ -3,7 +3,7 @@
 #include <time.h>
 
 #define MAX 100
-//Câu 1
+///Câu 1
 void taoMaTran(int a[MAX][MAX], int n) {
     srand(time(0));
     for (int i = 0; i < n; i++) {
