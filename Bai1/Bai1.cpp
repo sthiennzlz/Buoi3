@@ -119,7 +119,7 @@ void timYenNgua(int a[MAX_M][MAX_N], int m, int n) {
     }
     printf("\n");
 }
-
+//Câu 8
 void xuatDongChan(int a[MAX_M][MAX_N], int m, int n) {
     printf("Cac dong chi chua so chan:\n");
     for (int i = 0; i < m; i++) {
