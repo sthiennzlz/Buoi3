@@ -28,7 +28,7 @@ void inDuongCheoChinh(int a[MAX][MAX], int n) {
     }
     printf("\n");
 }
-
+//Câu 3
 void inDuongCheoSongSong(int a[MAX][MAX], int n) {
     for (int k = 1; k < n; k++) {
         for (int i = 0; i + k < n; i++) {
