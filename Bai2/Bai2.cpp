@@ -3,7 +3,7 @@
 #include <time.h>
 
 #define MAX 100
-
+//Câu 1
 void taoMaTran(int a[MAX][MAX], int n) {
     srand(time(0));
     for (int i = 0; i < n; i++) {
@@ -21,7 +21,7 @@ void inMaTran(int a[MAX][MAX], int n) {
         printf("\n");
     }
 }
-
+//Câu 2
 void inDuongCheoChinh(int a[MAX][MAX], int n) {
     for (int i = 0; i < n; i++) {
         printf("%d\t", a[i][i]);
