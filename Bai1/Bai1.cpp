@@ -43,7 +43,7 @@ void timMaxCot(int a[MAX_M][MAX_N], int m, int n) {
         printf("Max cot %d: %d\n", j, max);
     }
 }
-
+//Câu 4
 void xuatBien(int a[MAX_M][MAX_N], int m, int n) {
     printf("Cac phan tu bien:\n");
     for (int j = 0; j < n; j++) printf("%d ", a[0][j]);
