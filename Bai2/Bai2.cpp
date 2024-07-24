@@ -91,7 +91,7 @@ void sapXepZigZag(int a[MAX][MAX], int n) {
         }
     }
 }
-
+//Câu 6
 void sapXepDuongCheoChinh(int a[MAX][MAX], int n) {
     int temp[MAX];
 
