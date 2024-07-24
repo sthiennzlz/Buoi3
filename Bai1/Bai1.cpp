@@ -21,7 +21,7 @@ void xuatMang(int a[MAX_M][MAX_N], int m, int n) {
         printf("\n");
     }
 }
-
+//Câu 2
 void tinhTongDong(int a[MAX_M][MAX_N], int m, int n) {
     for (int i = 0; i < m; i++) {
         int tong = 0;
